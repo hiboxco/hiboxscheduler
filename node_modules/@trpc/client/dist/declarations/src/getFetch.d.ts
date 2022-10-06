@@ -1,2 +1,0 @@
-export declare function getFetch(f?: typeof fetch): typeof fetch;
-//# sourceMappingURL=getFetch.d.ts.map
