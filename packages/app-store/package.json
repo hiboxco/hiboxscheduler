@@ -1,0 +1,23 @@
+{
+  "name": "@calcom/app-store",
+  "version": "0.0.0",
+  "main": "./index.ts",
+  "files": [
+    "components.ts"
+  ],
+  "scripts": {
+    "lint": "eslint . --ext .ts,.js,.tsx,.jsx",
+    "lint:fix": "eslint . --ext .ts,.js,.tsx,.jsx --fix",
+    "lint:report": "eslint . --format json --output-file ../../lint-results/app-store.json"
+  },
+  "dependencies": {
+    "@calcom/lib": "*",
+    "@calcom/zoomvideo": "*",
+    "@calcom/dailyvideo": "*",
+    "@calcom/office365video": "*",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "@calcom/types": "*"
+  }
+}

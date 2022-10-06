@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json.schemastore.org/package.json",
+  "private": true,
+  "license": "AGPLv3 (see LICENSE file)",
+  "name": "@calcom/stripepayment",
+  "version": "0.0.0",
+  "main": "./index.ts",
+  "description": "A Saas company a payment processing software, and application programming interfaces for e-commerce websites and mobile applications.",
+  "dependencies": {
+    "@calcom/prisma": "*"
+  },
+  "devDependencies": {
+    "@calcom/types": "*"
+  }
+}

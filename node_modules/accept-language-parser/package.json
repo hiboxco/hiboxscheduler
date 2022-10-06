@@ -1,0 +1,31 @@
+{
+  "name": "accept-language-parser",
+  "version": "1.5.0",
+  "description": "Parse the accept-language header from a HTTP request",
+  "main": "index.js",
+  "scripts": {
+    "mocha": "mocha tests/",
+    "jshint": "jshint index.js tests/",
+    "test": "npm run jshint && npm run mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/opentable/accept-language-parser.git"
+  },
+  "keywords": [
+    "accept-language",
+    "i18n",
+    "parser"
+  ],
+  "author": "Andy Royle <ajroyle@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/opentable/accept-language-parser/issues"
+  },
+  "homepage": "https://github.com/opentable/accept-language-parser",
+  "devDependencies": {
+    "jshint": "^2.9.4",
+    "mocha": "^3.4.0",
+    "should": "^11.0.0"
+  }
+}

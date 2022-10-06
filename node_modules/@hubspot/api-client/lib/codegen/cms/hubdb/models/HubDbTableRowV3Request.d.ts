@@ -1,0 +1,22 @@
+export declare class HubDbTableRowV3Request {
+    'path'?: string;
+    'name'?: string;
+    'childTableId'?: number;
+    'values': {
+        [key: string]: any;
+    };
+    static readonly discriminator: string | undefined;
+    static readonly attributeTypeMap: Array<{
+        name: string;
+        baseName: string;
+        type: string;
+        format: string;
+    }>;
+    static getAttributeTypeMap(): {
+        name: string;
+        baseName: string;
+        type: string;
+        format: string;
+    }[];
+    constructor();
+}

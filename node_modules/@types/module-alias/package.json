@@ -1,0 +1,25 @@
+{
+    "name": "@types/module-alias",
+    "version": "2.0.1",
+    "description": "TypeScript definitions for module-alias",
+    "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/module-alias",
+    "license": "MIT",
+    "contributors": [
+        {
+            "name": "Kevin Ramharak",
+            "url": "https://github.com/KevinRamharak",
+            "githubUsername": "KevinRamharak"
+        }
+    ],
+    "main": "",
+    "types": "index.d.ts",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+        "directory": "types/module-alias"
+    },
+    "scripts": {},
+    "dependencies": {},
+    "typesPublisherContentHash": "f186d327bce56d6c764e0268765f1e15970c810051095855207f63a5bea3814d",
+    "typeScriptVersion": "3.6"
+}

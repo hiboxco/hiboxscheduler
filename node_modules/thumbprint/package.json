@@ -1,0 +1,17 @@
+{
+  "name": "thumbprint",
+  "version": "0.0.1",
+  "description": "Certificate thumbprint calculator for Node.js",
+  "main": "./lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leandrob/thumbprint.git"
+  },
+  "keywords": [
+    "Certificate",
+    "Thumbprint"
+  ],
+  "author": "Leandro Boffi (lboffi@gmail.com)",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
