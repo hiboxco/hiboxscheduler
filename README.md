@@ -328,5 +328,7 @@ Distributed under the AGPLv3 License. See `LICENSE` for more information.
 
 Special thanks to these amazing projects which help power hiboxscheduler.com:
 
-Hibox Scheduler is an open source project which uses cal.co(https://github.com/calcom/cal.com) under AGPLv3 License.
+Hibox Scheduler is an open source project which uses <a href="https://github.com/calcom/cal.com">cal.co</a> under AGPLv3 License.
+You an acquire a commercial license here: 
+  <a href="https://console.cal.com/signup">console.cal.com</a> and support plan here: <a href="https://cal.com/support">https://cal.com/support</a>
 
