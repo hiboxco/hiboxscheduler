@@ -244,7 +244,7 @@ yarn workspace @calcom/web playwright-report
 
 ### Docker
 
-The Docker configuration for Cal is an effort powered by people within the community. hiboxscheduler.com, Inc. does not provide official support for Docker, but we will accept fixes and documentation. Use at your own risk.
+The Docker configuration for Hibox Scheduler is an effort powered by people within the community. Hiboxscheduler.com, Inc. does not provide official support for Docker.
 
 If you want to contribute to the Docker repository, [reply here](https://github.com/calcom/docker/discussions/32).
 
@@ -260,19 +260,8 @@ The Docker configuration can be found [in our docker repository](https://github.
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fcalendso%2Fcalendso&plugins=postgresql&envs=GOOGLE_API_CREDENTIALS%2CBASE_URL%2CNEXTAUTH_URL%2CPORT&BASE_URLDefault=http%3A%2F%2Flocalhost%3A3000&NEXTAUTH_URLDefault=http%3A%2F%2Flocalhost%3A3000&PORTDefault=3000)
 
-You can deploy Cal on [Railway](https://railway.app/) using the button above. The team at Railway also have a [detailed blog post](https://blog.railway.app/p/calendso) on deploying Cal on their platform.
+You can deploy Hibox Scheduler on [Railway](https://railway.app/) using the button above. The team at Railway also have a [detailed blog post](https://blog.railway.app/p/calendso) on deploying Hibox Scheduler on their platform.
 
-<!-- ROADMAP -->
-
-## Roadmap
-
-See the [roadmap project](https://github.com/orgs/calcom/projects/1) for a list of proposed features (and known issues). You can change the view to see planned tagged releases.
-
-<!-- CONTRIBUTING -->
-
-## Contributing
-
-Please see our [contributing guide](/CONTRIBUTING.md).
 
 ### Good First Issues
 
@@ -339,14 +328,5 @@ Distributed under the AGPLv3 License. See `LICENSE` for more information.
 
 Special thanks to these amazing projects which help power hiboxscheduler.com:
 
-[<img src="https://hiboxscheduler.com/powered-by-vercel.svg">](https://vercel.com/?utm_source=hibox&utm_campaign=oss)
+Hibox Scheduler is an open source project which uses cal.co(https://github.com/calcom/cal.com) under AGPLv3 License.
 
-- [Vercel](https://vercel.com/?utm_source=calend-so&utm_campaign=oss)
-- [Next.js](https://nextjs.org/)
-- [Day.js](https://day.js.org/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Prisma](https://prisma.io/)
-
-[<img src="https://jitsu.com/img/powered-by-jitsu.png?gh=true">](https://jitsu.com/?utm_source=hiboxscheduler.com-gihub)
-
-hiboxscheduler.com is an [open startup](https://jitsu.com) and [Jitsu](https://github.com/jitsucom/jitsu) (an open-source Segment alternative) helps us to track most of the usage metrics.
