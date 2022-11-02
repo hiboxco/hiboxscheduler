@@ -4,7 +4,7 @@
   <img src="https://scheduler.hibox.co/Hibox-Scheduler-logo-white-word.svg" alt="Logo">
   </a>
 
-  <h3 align="center">hiboxscheduler.com (formerly Hibox)</h3>
+  <h3 align="center">Hibox Scheduler</h3>
 
   <p align="center">
     The open-source Calendly alternative.
@@ -242,14 +242,6 @@ yarn workspace @calcom/web playwright-report
 
 ## Deployment
 
-### Docker
-
-The Docker configuration for Hibox Scheduler is an effort powered by people within the community. Hiboxscheduler.com, Inc. does not provide official support for Docker.
-
-If you want to contribute to the Docker repository, [reply here](https://github.com/calcom/docker/discussions/32).
-
-The Docker configuration can be found [in our docker repository](https://github.com/calcom/docker).
-
 ### Heroku
 
 <a href="https://heroku.com/deploy?template=https://github.com/hiboxco/hiboxscheduler">
@@ -260,7 +252,7 @@ The Docker configuration can be found [in our docker repository](https://github.
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fcalendso%2Fcalendso&plugins=postgresql&envs=GOOGLE_API_CREDENTIALS%2CBASE_URL%2CNEXTAUTH_URL%2CPORT&BASE_URLDefault=http%3A%2F%2Flocalhost%3A3000&NEXTAUTH_URLDefault=http%3A%2F%2Flocalhost%3A3000&PORTDefault=3000)
 
-You can deploy Hibox Scheduler on [Railway](https://railway.app/) using the button above. The team at Railway also have a [detailed blog post](https://blog.railway.app/p/calendso) on deploying Hibox Scheduler on their platform.
+  Detailed instructions on deployment are on <a href="https://github.com/calcom/cal.com">cal.com</a> repository. 
 
 
 ### Good First Issues
