@@ -35,7 +35,7 @@ of your own data, workflow and appearance.
 
 Calendly and other scheduling tools are awesome. It made our lives massively easier. We're using it for business meetings, seminars, yoga classes and even calls with our families. However, most tools are very limited in terms of control and customisations.
 
-That's where hiboxscheduler.com comes in. Self-hosted or hosted by us. White-label by design. API-driven and ready to be deployed on your own domain. Full control of your events and data.
+That's where Hibox Scheduler comes in. Self-hosted. White-label by design. API-driven and ready to be deployed on your own domain. Full control of your events and data.
 
 <!-- ## Product of the Month: April
 
@@ -318,7 +318,7 @@ Distributed under the AGPLv3 License. See `LICENSE` for more information.
 
 ## Acknowledgements
 
-Special thanks to these amazing projects which help power hiboxscheduler.com:
+Special thanks to this amazing project which help power Hibox Scheduler:
 
 Hibox Scheduler is an open source project which uses <a href="https://github.com/calcom/cal.com">cal.co</a> under AGPLv3 License.
 You an acquire a commercial license here: 
