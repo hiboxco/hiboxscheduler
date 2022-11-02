@@ -12,11 +12,9 @@
     <a href="https://hiboxscheduler.com"><strong>Learn more »</strong></a>
     <br />
     <br />
-    <a href="https://hiboxscheduler.com/slack">Slack</a>
-    ·
     <a href="https://hiboxscheduler.com">Website</a>
     ·
-    <a href="https://github.com/hiboxco/hiboxscheduler/issues">Issues</a>
+    <a href="https://github.com/hiboxco/hibox/issues">Issues</a>
   </p>
 </p>
 
